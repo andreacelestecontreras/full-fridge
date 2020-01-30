@@ -1,0 +1,31 @@
+*{
+	font-family: arial;
+	color: #994000;
+}
+body{
+	background-color: #F99584;
+}
+h1{
+	font-family: arial;
+	color: #57412F;
+}
+header section{
+	background-color: #BFF7DF;
+}
+
+.foodpic{
+	display: inline-block;
+	float: center;
+	padding: 1.5%;
+	width: 30%;
+	height: 150px;
+	overflow: scroll;
+	background-color: #994000;
+}
+#foodtips{
+	font-size: 24px;
+	height: 250px;
+	margin: 0 auto;
+	background-color: #BFF7DF;
+	overflow: scroll;
+}
